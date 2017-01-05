@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">Coletor de Dados</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Coletor de Dados</string>
+    <string name="title_leitura">Leitura</string>
+    <string name="title_consulta">Consulta</string>
+    <string name="title_sobre">Sobre</string>
+    <string name="lbBarras">Barras: </string>
+    <string name="lbMerc">Mercadoria: </string>
+    <string name="lbQuant">Quantidade: </string>
+    <string name="lbTeclado">Teclado: </string>
+    <string name="lbBtn1">1</string>
+    <string name="lbBtn2">2</string>
+    <string name="lbBtn3">3</string>
+    <string name="lbBtn4">4</string>
+    <string name="lbBtn5">5</string>
+    <string name="lbBtn6">6</string>
+    <string name="lbBtn7">7</string>
+    <string name="lbBtn8">8</string>
+    <string name="lbBtn9">9</string>
+    <string name="lbBtn0">0</string>
+    <string name="lbBtnPonto">.</string>
+    <string name="lbBtnCamera">C</string>
+    <string name="lbBtnBkspc">X</string>
+    <string name="lbBtnSalvar">Salvar</string>
+    <string name="lbBtnLimpar">Limpar</string>
+    <string name="lbConsulta">Leituras Realizadas:</string>
+    <string name="lbConsultaMenuExcluir">Excluir todas</string>
+    <string name="lbConfigMenuConfig">Configurações</string>
+    <string name="lbConfigMenuSobre">Sobre</string>
+    <string name="lbVersao">Versão</string>
+    <string name="lbAutor">Desenvolvedor</string>
+    <string name="lbAutorNome">Gustavo Fernandes</string>
+
+</resources>
